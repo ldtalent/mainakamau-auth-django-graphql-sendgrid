@@ -1,0 +1,7 @@
+export SECRET='thisisasecretkey'
+export SENDGRID_API_KEY=SG.xxxxxxxxxx.xxxxxxxxxx
+export DOMAIN='http://127.0.0.1:8000'
+export EMAIL_HOST='smtp.sendgrid.net'
+export EMAIL_HOST_USER='apikey'
+export EMAIL_PORT=587
+export EMAIL_USE_TLS=True
